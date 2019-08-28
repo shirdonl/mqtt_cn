@@ -98,9 +98,8 @@ MQTT是一个客户端服务端架构的发布/订阅模式的消息传输协议
 
 ## 译者
 
-- [GitHub](https://github.com/mcxiaoke)
-- [Blog](http://blog.mcxiaoke.com/)
-- [Email](mailto:mail@mcxiaoke.com)
+- [GitHub](https://github.com/shirdonl)
+- [Blog](http://www.shirdon.com/)
 
 ## 目录
 
